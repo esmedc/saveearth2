@@ -1,7 +1,7 @@
 
 .Home {
 
-    background: url(Pictures/Pollution.scaled.jpeg) no-repeat center;
+    background: url(./Pollution.scaled.jpeg) no-repeat center;
     background-size:cover;
     height: 500px;
     position: relative;
